@@ -248,4 +248,4 @@ This repository serves as the official landing page for PostgreSQL. The software
 **Get the most recent version of PostgreSQL today!**
 
 ---
-**Last updated:** 2026-09-26 03:42:07 UTC
+**Last updated:** 2026-09-26 09:08:37 UTC
